@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Randy (Bimmr)
 
-<!--
-**Bimmr/Bimmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer based in Ontario, Canada, with a passion for creating tools that enhance user experiences across various platforms.
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bimmr&show_icons=true&rank_icon=github&custom_title=My%20Github%20Stats&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimmr&layout=compact&custom_title=My%20Most%20Used%20Languages&theme=github_dark_dimmed&langs_count=8&card_width=450" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Do
+
+- **Chromium Extensions**: Developing browser extensions to improve web navigation and functionality.
+- **Automation Tools**: Building scripts and tools to automate tasks and improve efficiency.
+- **Minecraft Plugins**: Creating plugins like [BimmCore](https://www.spigotmc.org/resources/bimmcore.23074/) to plugin creation
+- **Web Development**: Create online web pressence for clients looking for a website
+
+---
+
+## 🔧 Technologies & Tools
+
+- **Languages**: JavaScript, Java
+- **Frameworks**: Spigot
+- **Tools**: Git, GitHub, Node.js
+
+---
+
+## 📌 Featured Projects
+
+### [Site-Viewer](https://github.com/Bimmr/Site-Viewer)
+Crawl and/or view a website's pages, links, assets, files, and media all in one location. 
+
+### [Monster-Hunter-Rise-Reframework-Scripts](https://github.com/Bimmr/Monster-Hunter-Rise-Reframework-Scripts-)
+Scripts for modding *Monster Hunter Rise* using the REFramework.
+
+### [Warframe-Randomizer](https://github.com/Bimmr/Warframe-Randomizer)
+A randomizer tool for *Warframe* that generates unique loadouts for a fresh gameplay experience.
+
+### [BimmCore](https://github.com/Bimmr/BimmCore)
+A core plugin for *SpigotMC*, providing utilities for Minecraft plugin development.
+
+---
+
+## 📬 Get in Touch
+
+- **Website**: [https://Bimmr.com](https://Bimmr.com)
+- **Email**: [Contact via GitHub](https://github.com/Bimmr)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
