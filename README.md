@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a developer based in Ontario, Canada, with a p
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bimmr&show_icons=true&rank_icon=github&custom_title=My%20Github%20Stats&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimmr&layout=compact&custom_title=My%20Most%20Used%20Languages&theme=github_dark_dimmed&langs_count=8&card_width=450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimmr&layout=compact&custom_title=My%20Most%20Used%20Languages&theme=github_dark_dimmed&langs_count=8" />
 </a>
 
 ---
