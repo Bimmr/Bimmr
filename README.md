@@ -15,15 +15,14 @@ Welcome to my GitHub profile! I'm a developer based in Ontario, Canada, with a p
 
 - **Chromium Extensions**: Developing browser extensions to improve web navigation and functionality.
 - **Automation Tools**: Building scripts and tools to automate tasks and improve efficiency.
-- **Minecraft Plugins**: Creating plugins like [BimmCore](https://www.spigotmc.org/resources/bimmcore.23074/) to plugin creation
-- **Web Development**: Create online web pressence for clients looking for a website
+- **Minecraft Plugins**: Creating plugins, mods, and libraries for SpigotMC
+- **Web Development**: Create an online web presence for individuals and companies
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, Java
-- **Frameworks**: Spigot
+- **Languages**: JavaScript, Java, MySQL, HTML, CSS
 - **Tools**: Git, GitHub, Node.js
 
 ---
@@ -33,11 +32,11 @@ Welcome to my GitHub profile! I'm a developer based in Ontario, Canada, with a p
 ### [Site-Viewer](https://github.com/Bimmr/Site-Viewer)
 Crawl and/or view a website's pages, links, assets, files, and media all in one location. 
 
-### [Monster-Hunter-Rise-Reframework-Scripts](https://github.com/Bimmr/Monster-Hunter-Rise-Reframework-Scripts-)
-Scripts for modding *Monster Hunter Rise* using the REFramework.
-
 ### [Warframe-Randomizer](https://github.com/Bimmr/Warframe-Randomizer)
 A randomizer tool for *Warframe* that generates unique loadouts for a fresh gameplay experience.
+
+### [Monster-Hunter-Rise-Reframework-Scripts](https://github.com/Bimmr/Monster-Hunter-Rise-Reframework-Scripts-)
+Scripts for modding *Monster Hunter Rise* using the REFramework.
 
 ### [BimmCore](https://github.com/Bimmr/BimmCore)
 A core plugin for *SpigotMC*, providing utilities for Minecraft plugin development.
