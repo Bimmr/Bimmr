@@ -32,6 +32,9 @@ Welcome to my GitHub profile! I'm a developer based in Ontario, Canada, with a p
 ### [Site-Viewer](https://github.com/Bimmr/Site-Viewer)
 Crawl and/or view a website's pages, links, assets, files, and media all in one location. 
 
+### [Manulife Wealth's SiteForward Newsletter Generator](https://newsletter.siteforward.ca/)
+An automation tool for Manulife Wealth's SiteForward advisors to create newsletters to send out to their clients
+
 ### [Warframe-Randomizer](https://github.com/Bimmr/Warframe-Randomizer)
 A randomizer tool for *Warframe* that generates unique loadouts for a fresh gameplay experience.
 
